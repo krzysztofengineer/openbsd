@@ -24,9 +24,10 @@ Provide the path to the downloaded `.fs` file for the `if` argument and the path
 
 ## Done.
 
----
+You can now boot from the USB.
 
-## Warning
+
+### WARNING
 
 `dd` can be destructive if used incorrectly, that's why it's often called "Disk Destroyer". 
 Make sure to double check your paths.
