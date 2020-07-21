@@ -87,3 +87,60 @@ Setup a user? (enter a lower-case loginname, or 'no') [no]
 ```
 
 It is a best practice not to use `root` account for everything, so I would recommend to create a separate user account here. I will be using my name, but feel free to use yours ( ͡° ͜ʖ ͡°)
+
+```
+Full name for user krzysztof? [krzysztof]
+Password for user krzysztof (will not echo)
+Password for user krzysztof (again)
+```
+
+To finish creating account, provide a full name (or just hit `Enter`) and password with a confirmation.
+
+```
+WARNING: root is targeted by password guessing attacks, pubkeys are safer. Allow root ssh login? (yes, no, prohibit-password) [no]
+```
+
+If you do not need to access the machine remotely as root, hit `Enter`. Even if you do, it is a best practice to create a separate account without all the root privileges.
+
+## Timezone
+
+```
+What timezone are you in? ('?' for list) [Europe/Warsaw]
+```
+
+You can list available timezone using question mark, but if you're connected to the Internet it should guess the proper one. Or maybe it uses other magic ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ
+
+
+## Disk partitioning
+
+```
+Available disks are: sd0, sd1, sd2.
+Which disk is the root disk? ('?' for details) [sd0]
+```
+
+Now it's finally time to install the OS. First, we need to select a disk to write it to. The best choice is to type `?` and double check if the default answer is right. If you're on T480, look for something like `sd0: NVMe` and check if the disk size matches. Next, you will be prompted with a choice I've mentioned during the BIOS setup:
+
+```
+Use (W)hole disk MBR, whole disk (G)PT or (E)dit?
+```
+
+Because I'm using UEFI, I will select `G` for `GPT` partitioning type.
+
+OpenBSD will then do its magic and generate a proposal list for new partitions (it uses many partitions as opposed to other distributions).
+
+```
+Use (A)uto layout, (E)dit auto layout, or create (C)ustom layout? [a]
+```
+
+If you believe in magic, select `A`.
+
+```
+Which disk do you wish yo initialize? (or 'done') [done]
+```
+
+You now have a chance to initialize other disks. Otherwise, hit `Enter`.
+
+
+
+
+
