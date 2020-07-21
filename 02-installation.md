@@ -1,5 +1,7 @@
 # Installation
 
+![](02-installation.png)
+
 ## Booting from the USB
 
 Press `F12` during the splash screen, select your USB from the list and press enter. You can also keep pressing `Enter` during the Lenovo splash screen and press `F12` while on the selection menu.
