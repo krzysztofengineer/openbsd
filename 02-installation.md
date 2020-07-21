@@ -43,6 +43,7 @@ I will connect an ethernet cable and type `em0`. When asked for `IPv4` address I
 You can now configure another network interface, but if you're done just hit `Enter` for `done` option.
 
 > DNS domain name? (e.g. 'example.com') [my.domain]
+
 Next, you should be asked for `DNS domain name`, which will be used with a hostname you've provided earlier for FQDN (fully qualified domain name). Because we will be using Thinkpad as a personal workstation we can leave it on default `my.domain`.
 
 ## Root password
