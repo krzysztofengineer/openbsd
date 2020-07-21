@@ -1,3 +1,5 @@
 # Thinkpad T480 Open BSD installation, configuration & management
 
-### [00 - Installation](/00-installation.md)
+## Installation
+
+[01 - Preparing installation USB stick](/01-usb-stick.md)
