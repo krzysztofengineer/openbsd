@@ -33,3 +33,6 @@ You can now boot from the USB.
 
 `dd` can be destructive if used incorrectly, that's why it's often called "Disk Destroyer". 
 Make sure to double check your paths.
+
+
+[Next: BIOS Setup](01-bios-setup.md)
