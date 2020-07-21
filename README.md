@@ -20,7 +20,8 @@ This "book" covers the process of installing & configuring the OpenBSD on Thinkp
  - [WIP] Sound
  - [WIP] Touchpad
  - [WIP]...
-
+### V - Troubleshooting [WIP]
+ - [WIP] Unable to boot into X
 ---
 
 ### DISCLAIMER
