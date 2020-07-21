@@ -1,5 +1,7 @@
 # BIOS setup
 
+![](01-bios.png)
+
 ## Entering the BIOS setup
 
 Press `F1` during the Lenovo splash screen. 
