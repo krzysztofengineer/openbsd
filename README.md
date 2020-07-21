@@ -8,4 +8,4 @@ Feel free to contribute if you find a typo, misleading information or just have 
 
 ## Installation
 
-[01 - Preparing installation USB stick](/01-usb-stick.md)
+[00 - Preparing installation USB stick](/00-usb-stick.md)
