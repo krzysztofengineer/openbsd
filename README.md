@@ -8,5 +8,5 @@ Feel free to contribute if you find a typo, misleading information or just have 
 
 ## Installation
 
-[00 - Preparing installation USB stick](/00-usb-stick.md)
-[01 - BIOS setup](/01-bios-setup.md)
+- [00 - Preparing installation USB stick](/00-usb-stick.md)
+- [01 - BIOS setup](/01-bios-setup.md)
