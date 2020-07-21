@@ -9,6 +9,7 @@ Press `F12` during the splash screen, select your USB from the list and press en
 The installer will do some work (you will see many lines of white text on the blue background). If there are any issues with your hardware, there will probably be some information along the lines.
 
 > Welcome to the OpenBSD/amd64 6.7 installation program.
+
 > (I)nstall, (U)pgrade, (A)utoinstall or (S)hell?
 
 When the installer finishes its job, you will be prompted with a welcome text and some options. Type `I` for install and press `Enter`.
@@ -29,6 +30,7 @@ During the boot process, `netstart` utility will use this value to name your mac
 ## Network interface configuration
 
 > Available network interfaces are: iwwm0 em0 vlan0
+
 > Which network do you wish to configure?
 
 Next, you will be promted for network configuration with available interfaces listed. For Thinkpad T480 that should be `iwm0`, which is wi-fi, `em0` for ethernet and `vlan0`.
@@ -46,6 +48,7 @@ Next, you should be asked for `DNS domain name`, which will be used with a hostn
 ## Root password
 
 > Password for root account? (will not echo)
+
 > Password for root account? (again)
 
 Now you will be asked to provide a root password. It will not be your daily password as we will create a user account later on, but you will need it for actions requiring root privileges (but you can also configure the user account with root permissions). Type your password twice to confirm.
