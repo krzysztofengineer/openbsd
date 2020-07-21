@@ -175,5 +175,6 @@ xshareXX.tgz  X11's man pages, locale settings and includes
 ```
 
 Follow the instructions and when you're done, hit `Enter` (or type `done`). For beginners, it is recommended to leave the selection untouched.
+The installer then will fetch and verify all sets that's been selected.
 
 
