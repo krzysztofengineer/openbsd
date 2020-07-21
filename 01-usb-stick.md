@@ -20,3 +20,13 @@ dd if=/path/to/install67.fs of=/dev/sdX bs=1M status=progress
 
 Provide the path to the downloaded `.fs` file for the `if` argument and the path to your USB for the `of` argument (you can find that path using `lsblk` utility).
 `bs` parameter tells `dd` to use a bigger block size (so it will be faster) and with `status=progress` you will see the live progress istead of no info at all.
+
+
+## Done.
+
+---
+
+## Warning
+
+`dd` can be destructive if used incorrectly, that's why it's often called "Disk Destroyer". 
+Make sure to double check your paths.
