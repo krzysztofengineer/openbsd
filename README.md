@@ -7,6 +7,7 @@ This "book" covers the process of installing & configuring the OpenBSD on Thinkp
 
 - [00 - Preparing installation USB stick](/00-usb-stick.md)
 - [01 - BIOS setup](/01-bios-setup.md)
+- [02 - Installation](/02-installation.md)
 
 ---
 
