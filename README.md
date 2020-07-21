@@ -5,18 +5,18 @@
 This "book" covers the process of installing & configuring the OpenBSD on Thinkpad T480 laptop (and probably other Thinkpads & laptops as well).
 [OpenBSD](https://www.openbsd.org/) is a secure, UNIX-like operating system with a clean codebase which makes it perfect for minimalists & perfectionists.
 
-## Installation
+## I - Installation
 
 - [00 - Preparing installation USB stick](/00-usb-stick.md)
 - [01 - BIOS setup](/01-bios-setup.md)
 - [02 - Installation](/02-installation.md)
 
-## [WIP] Configuration
+## [WIP] II - Configuration
  - WIP Post-installation setup
  - WIP Firmware
-## [WIP] Window manager
+## [WIP] III - Window manager
  - WIP...
-## [WIP] Usability
+## [WIP] IV- Usability
  - WIP Sound
  - WIP Touchpad
  - WIP...
