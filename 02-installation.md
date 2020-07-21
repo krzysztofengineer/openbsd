@@ -25,3 +25,13 @@ Next, you will be promted for network configuration with available interfaces li
 Because OpenBSD installation media does not contain firmware for T480 wi-fi adapter, the best option is to configure ethernet for now (but you can e.g. download the firmware file onto the USB and load it now using `fw_update` utility).
 
 I will connect an ethernet cable and type `em0`. When asked for `IPv4` address I will select default option `dhcp` so it will be automatically assigned by the router (just confirm with `Enter` and for `IPv6` I will also select default option or type `'none'`.
+
+You can now configure another network interface, but if you're done just hit `Enter` for `done` option.
+
+Next, you should be asked for `DNS domain name`, which will be used with a hostname you've provided earlier for FQDN (fully qualified domain name). Because we will be using Thinkpad as a personal workstation we can leave it on default `my.domain`.
+
+## Accounts
+
+Now you will be asked to provide a root password. It will not be your daily password as we will create a user account later on, but you will need it for actions requiring root privileges (but you can also configure the user account with root permissions). Type your password twice to confirm.
+
+## SSHD
