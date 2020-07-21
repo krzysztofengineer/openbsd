@@ -1,8 +1,10 @@
 # Preparing the installation USB stick
 
+![](00-usb.png)
+
 ## Downloading the image
 
-The USB image can be downloaded from (OpenBSD website)[https://www.openbsd.org/]. 
+The USB image can be downloaded from [OpenBSD website](https://www.openbsd.org/). 
 You will find several options in the **Downloads** section. 
 For USB you would like to download the `installXX.fs` file (not the ISO) and because Thinkpad T480 supports 64-bit architecture we select **amd64** version.
 
