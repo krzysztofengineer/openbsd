@@ -11,6 +11,16 @@ This "book" covers the process of installing & configuring the OpenBSD on Thinkp
 - [01 - BIOS setup](/01-bios-setup.md)
 - [02 - Installation](/02-installation.md)
 
+## [WIP] Configuration
+ - WIP Post-installation setup
+ - WIP Firmware
+## [WIP] Window manager
+ - WIP...
+## [WIP] Usability
+ - WIP Sound
+ - WIP Touchpad
+ - WIP...
+
 ---
 
 ### DISCLAIMER
