@@ -158,6 +158,22 @@ HTTP Server?
 Server directory?
 ```
 
-Next, you will be able to select (or deselect) which sets you want to install.  
+Next, you will be able to select (or deselect) which sets you want to install. I ten to leave all selected, but if you are a real minimalist, feel free to only leave required sets. Here's the list from the official website:
+
+```
+bsd           The kernel (required)
+bsd.mp        The multi-processor kernel (only on some platforms)
+bsd.rd        The ramdisk kernel
+baseXX.tgz    The base system (required)
+compXX.tgz    The compiler collection, headers and libraries
+manXX.tgz     Manual pages
+gameXX.tgz    Text-based games
+xbaseXX.tgz   Base libraries and utilities for X11 (requires xshareXX.tgz)
+xfontXX.tgz   Fonts used by X11
+xservXX.tgz   X11's X servers
+xshareXX.tgz  X11's man pages, locale settings and includes
+```
+
+Follow the instructions and when you're done, hit `Enter` (or type `done`). For beginners, it is recommended to leave the selection untouched.
 
 
