@@ -108,7 +108,7 @@ If you do not need to access the machine remotely as root, hit `Enter`. Even if 
 What timezone are you in? ('?' for list) [Europe/Warsaw]
 ```
 
-You can list available timezone using question mark, but if you're connected to the Internet it should guess the proper one. Or maybe it uses other magic ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ
+You can list available timezone using question mark, but if you're connected to the Internet it should guess the proper one. Or maybe it uses some other magic ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ
 
 
 ## Disk partitioning
@@ -177,4 +177,17 @@ xshareXX.tgz  X11's man pages, locale settings and includes
 Follow the instructions and when you're done, hit `Enter` (or type `done`). For beginners, it is recommended to leave the selection untouched.
 The installer then will fetch and verify all sets that's been selected.
 
+After it's done, if you're not intending to install more packages from a different source, hit `Enter` for `done`:
+
+```
+Location of sets? (disk http nfs or 'done') [done]
+```
+
+The system will now do some more magic (including creating a kernel). And that's it. The last prompt will ask you what to do next.
+
+```
+Exit to (S)hell, (H)alt or (R)eboot? [reboot]
+```
+
+Go to shell if you are a pro and want to tinker a bit more, halt if you want to go to sleep and continue tomorrow or reboot to start setting up your machine right away.
 
