@@ -9,7 +9,4 @@ Feel free to contribute if you find a typo, misleading information or just have 
 ## Installation
 
 [00 - Preparing installation USB stick](/00-usb-stick.md)
-
-
-
-![](readme.png)
+[01 - BIOS setup](/01-bios-setup.md)
