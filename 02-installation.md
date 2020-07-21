@@ -140,7 +140,24 @@ Which disk do you wish yo initialize? (or 'done') [done]
 
 You now have a chance to initialize other disks. Otherwise, hit `Enter`.
 
+## OpenBSD installation
 
+Now that we have a disk ready for OpenBSD, we will select the source of installation files (called `sets` here).
 
+```
+Let's install the sets!
+Location of sets? (disk http nfs or 'done') [http]
+```
+
+Because we have an active Internet connection, we can fetch fresh sets from the web, so choose `http`.
+You will be then asked a couple of questions about the download mirror (which you should safely accept with `Enter`)
+
+```
+HTTP proxy URL?
+HTTP Server?
+Server directory?
+```
+
+Next, you will be able to select (or deselect) which sets you want to install.  
 
 
