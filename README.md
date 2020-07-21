@@ -15,13 +15,16 @@ This "book" covers the process of installing & configuring the OpenBSD on Thinkp
  - [WIP] Post-installation setup
  - [WIP] Firmware
 ## III - Window manager [WIP]
- - [WIP]...
+ - [WIP] ...
 ## IV- Usability [WIP]
  - [WIP] Sound
  - [WIP] Touchpad
- - [WIP]...
-### V - Troubleshooting [WIP]
+ - [WIP] ...
+### V - Daily tasks [WIP]
+ - [WIP] ...
+### Vi - Troubleshooting [WIP]
  - [WIP] Unable to boot into X
+ 
 ---
 
 ### DISCLAIMER
