@@ -1,5 +1,7 @@
 # Preparing the installation USB stick
 
+![](00-usb.png)
+
 ## Downloading the image
 
 The USB image can be downloaded from (OpenBSD website)[https://www.openbsd.org/]. 
