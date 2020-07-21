@@ -26,3 +26,6 @@ That choice will have impact later when choosing partition table type (GPT for U
 That should be enough for BIOS setup. You can `Exit Saving Changes` and proceed for installation.
 
 However, you can face various issues while using OpenBSD so be aware, that tinkering with BIOS settings can sometimes be the solution to the problem.
+
+
+[Next: Installation](02-installation.md)
