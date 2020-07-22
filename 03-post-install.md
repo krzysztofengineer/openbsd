@@ -67,3 +67,21 @@ permit persist :wheel
 ```
 
 It should then persist the login information for five minutes.
+
+## Installing basic packages
+
+Now that we are finally able to install software, it's time to get some goodies. I don't know what software you'll be using, but I will share how to find and install packages.
+
+To search if a package is avilable, you can use `pkg_info` command:
+
+```
+pkg_info -Q firefox
+```
+
+Then we can install the package:
+
+```
+doas pkg_add firefox
+```
+
+
