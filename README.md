@@ -43,3 +43,7 @@ You can be mean to me, but please consider my life philosophy:
 - Simple installation
 - Fine documentation
 - Works out of the box - *It Just Works (TM)*
+
+### Donations
+
+If you appreciate my books and projects - please consider sponsorship via Github. Thank you for any donations.
