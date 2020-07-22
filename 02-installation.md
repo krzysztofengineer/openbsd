@@ -89,7 +89,7 @@ Start sshd(8) by default? [yes]
 Do you want the X Window System to be started by xenodm(1)? [no]
 ```
 
-The X Window System is the widely unix-supported graphics service. Because I will be installing `dwm` windows manager later, which happens to be built on top of `X`, I will type `yes` as an aswer. We will only need to call our window manager from a config file and `xenodm` with start it automatically on login.
+The X Window System is the widely unix-supported graphics service. Because I will be installing `dwm` windows manager later, which happens to be built on top of `X`, I will type `yes` as an aswer. We will only need to call our window manager from a config file and `xenodm` will start it automatically on login.
 
 ## User account
 
@@ -121,10 +121,8 @@ Even if you do, it is a best practice to create a separate account without all t
 What timezone are you in? ('?' for list) [Europe/Warsaw]
 ```
 
-You can list available timezone using question mark, but if you're connected to the Internet it should guess the proper one. 
-(Or maybe it uses some other magic ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ)
-
-![](https://pbs.twimg.com/media/DdaMnOoWAAAgPmc.jpg)
+You can list available timezone using question mark, but if you're connected to the Internet I think it should guess the proper one. 
+(Or maybe it uses some other magic? ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ)
 
 
 ## Disk partitioning
