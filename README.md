@@ -19,7 +19,7 @@ This "book" covers the installation & configuration of OpenBSD.
 ## III - Window manager [WIP]
 ## IV- Usability [WIP]
 ## V - Daily tasks [WIP]
-## Vi - Troubleshooting [WIP]
+## VI - Troubleshooting [WIP]
  
 ---
 
