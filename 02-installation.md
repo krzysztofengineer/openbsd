@@ -125,6 +125,8 @@ What timezone are you in? ('?' for list) [Europe/Warsaw]
 You can list available timezone using question mark, but if you're connected to the Internet it should guess the proper one. 
 (Or maybe it uses some other magic ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ)
 
+![](https://pbs.twimg.com/media/DdaMnOoWAAAgPmc.jpg)
+
 
 ## Disk partitioning
 
