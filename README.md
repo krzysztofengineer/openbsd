@@ -34,3 +34,12 @@ You can be mean to me, but please consider my life philosophy:
 >  Don't ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been, ever, for any reason whatsoever.
 
 ![](https://assets.rbl.ms/13475935/980x.jpg)
+
+
+### Why OpenBSD?
+
+- Great(est?) security thanks do code audit
+- Clean codebase for minimalist lovers
+- Simple installation
+- Fine documentation
+- Works out of the box - *Just Works (TM)*
