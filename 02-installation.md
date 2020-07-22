@@ -89,8 +89,7 @@ Start sshd(8) by default? [yes]
 Do you want the X Window System to be started by xenodm(1)? [no]
 ```
 
-The X Window System is the widely unix-supported graphics service. Because I will be installing `dwm` windows manager later, which happens to be built on top of `X`, I will type `yes` as an aswer. 
-If you intend to install another desktop environment, e.g. `gnome` which can start X from its login manager `gdm`, feel free to accept the default answer to not start X by default.
+The X Window System is the widely unix-supported graphics service. Because I will be installing `dwm` windows manager later, which happens to be built on top of `X`, I will type `yes` as an aswer. We will only need to call our window manager from a config file and `xenodm` with start it automatically on login.
 
 ## User account
 
