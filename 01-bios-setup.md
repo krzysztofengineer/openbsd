@@ -5,27 +5,26 @@
 ## Entering the BIOS setup
 
 Press `F1` during the Lenovo splash screen. 
-You can also keep pressing `Enter` until hearing the beep and then `F1` from a selection menu.
+You can also keep hitting `Enter` until hearing the old-school beep and press `F1` later while on selection screen.
 
-## Security settings
+## Config & Security settings
 
-Before altering settings I've performed factory reset by selecting `Load Setup Defaults` from `Restart` tab.
-Then, I've made sure that Thunderbolt is disabled both inside `Config` tab as well as `Security`/`I/O Port Access`.
-I also disable `Wireless WAN`, because that has caused problems with OpenBSD for me in the past.
+Firstly, I've performed a factory reset by selecting `Load Setup Defaults` from `Restart` tab.
+Then, I've made sure that Thunderbolt is disabled both inside `Config` tab as well as `Security`/`I/O Port Access` (it sometimes causes issues on OpenBSD).
+I also disable `Wireless WAN`, because that caused problems for me in the past.
 
-The options above should be fine tuned from factory reset (at least were for me), however you have to disable `Secure boot` by yourself.
-You will find this option on `Security` tab.
+From the `Security` tab disable `Secure boot`.
 
 ## Startup settings
 
 You can install OpenBSD both in UEFI or legacy mode (I will leave UEFI option checked).
-That choice will have impact later when choosing partition table type (GPT for UEFI/MBR for Legacy).
+That choice will have impact later when choosing partition table type (GPT for UEFI / MBR for Legacy).
 
 ## Saving changes
 
-That should be enough for BIOS setup. You can `Exit Saving Changes` and proceed for installation.
+You can now `Exit Saving Changes` and proceed for installation.
 
-However, you can face various issues while using OpenBSD so be aware, that tinkering with BIOS settings can sometimes be the solution to the problem.
+Be aware, that when you'll face some issues later on, it can sometimes be helpful to go back to BIOS and tinker with some options (which we may actually do together in later sections of this book).
 
 
 [Next: Installation](02-installation.md)
