@@ -48,7 +48,7 @@ To allow our user account to call root commands, put the following line in that 
 permit :wheel
 ```
 
-This will allow user from `wheel` group to run commands as root.
+This will allow user from `wheel` group to run commands as root (your account should be in that group already).
 Now, you should be able to prepend `doas` to call root commands. Let's check it by installing `vim`:
 
 ```
