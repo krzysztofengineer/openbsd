@@ -1,6 +1,6 @@
 # OpenBSD for minimalists 
 
-Installation, configuration & management on Thinkpad T480
+Installation, configuration & management on Thinkpad T480 (should work for other setup too).
 
 ![](00-readme-bsd.png)
 
@@ -10,33 +10,24 @@ This "book" covers the installation & configuration of OpenBSD.
 
 ## I - Installation
 
-- [00 - Preparing installation USB stick](/00-usb-stick.md)
+- [00 - Preparing the installation USB stick](/00-usb-stick.md)
 - [01 - BIOS setup](/01-bios-setup.md)
 - [02 - Installation](/02-installation.md)
 
 ## II - Configuration [WIP]
- - [WIP] Post-installation setup
- - [WIP] Firmware
 ## III - Window manager [WIP]
- - [WIP] ...
 ## IV- Usability [WIP]
- - [WIP] Sound
- - [WIP] Touchpad
- - [WIP] ...
-### V - Daily tasks [WIP]
- - [WIP] ...
-### Vi - Troubleshooting [WIP]
- - [WIP] Unable to boot into X
+## V - Daily tasks [WIP]
+## Vi - Troubleshooting [WIP]
  
 ---
 
 ### DISCLAIMER
 
 Even though I am fairly experienced with programming and computers overall, I am not pretending to be any kind of expert.
-I've just decided to write down my journey of getting to know OpenBSD better as a reference for a future refreshment.
-I will write down steps I've taken to configure a productive workstation for programming and maybe dive deeper on interesting topics along.
+I've decided to write down about my journey of getting to know OpenBSD better and use it as a reference for a future refreshment.
 
 Feel free to contribute if you find a typo, misleading information or just have something important to add.
-You can be mean to me, but please take my life motto into a consideration:
+You can be mean to me, but please consider my life philosophy:
 
 >  Don't ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been, ever, for any reason whatsoever.
