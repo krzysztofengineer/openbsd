@@ -84,4 +84,4 @@ Then we can install the package:
 doas pkg_add firefox
 ```
 
-
+If you want to follow along with my minimalist environment, you can also install `git` package.
