@@ -42,4 +42,4 @@ You can be mean to me, but please consider my life philosophy:
 - Clean codebase for minimalist lovers
 - Simple installation
 - Fine documentation
-- Works out of the box - *Just Works (TM)*
+- Works out of the box - *It Just Works (TM)*
