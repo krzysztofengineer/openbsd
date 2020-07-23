@@ -93,3 +93,5 @@ doas pkg_add firefox
 ```
 
 If you want to follow along with my minimalist environment, now it's time to install `git` package yourself.
+
+[Next: Wi-fi](/04-wifi.md)
