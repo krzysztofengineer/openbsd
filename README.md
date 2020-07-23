@@ -60,3 +60,7 @@ If you appreciate my books and projects - please consider sponsorship via Github
   
   I've spent most of my life learning new programming languages (way too many), reinstalling Linux distros and starting new projects that I've abandoned a week later.
   Still, due to my not so great memory, I'm not claiming to be an expert, just sharing what I know to be right at the moment.
+  
+- **Why OpenBSD? Is it really for minimalists?**
+
+  If you're anything like me, you won't use a computer without knowing what runs on it (I'm talking about you, Windows & Mac), you won't use a ready made game engine but write it yourself and you want program with OOP language because it's bloated. Just some old school C & BSD. This is a digital minimalism to me. I'm also a minimalist in real life (expect for books, which I own hundreds of).
