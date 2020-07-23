@@ -17,6 +17,7 @@ This "book" covers the installation & configuration of OpenBSD.
 
 ## II - Configuration [WIP]
 - [03 - Post-install configuration](/03-post-install.md)
+- [04 - Wi-fi](/04-wifi.md)
 
 ## III - Window manager [WIP]
 ## IV- Usability [WIP]
