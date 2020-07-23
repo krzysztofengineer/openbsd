@@ -47,3 +47,16 @@ You can be mean to me, but please consider my life philosophy:
 ### Donations
 
 If you appreciate my books and projects - please consider sponsorship via Github. Thank you for any donations.
+
+
+### FAQ
+
+- **Do you even know English?**
+
+  I know that my language is bad sometimes, but I hope the key points are easy to understand. 
+  If you're superior to me, please consider PR to fix any communication issues.
+  
+- **Do you know anything about computers?**
+  
+  I've spent most of my life learning new programming languages (way too many), reinstalling Linux distros and starting new projects that I've abandoned a week later.
+  Still, due to my not so great memory, I'm not claiming to be an expert, just sharing what I know to be right at the moment.
