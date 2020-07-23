@@ -89,8 +89,7 @@ Start sshd(8) by default? [yes]
 Do you want the X Window System to be started by xenodm(1)? [no]
 ```
 
-The X Window System is the widely unix-supported graphics service. Because I will be installing `dwm` windows manager later, which happens to be built on top of `X`, I will type `yes` as an aswer. 
-If you intend to install another desktop environment, e.g. `gnome` which can start X from its login manager `gdm`, feel free to accept the default answer to not start X by default.
+The X Window System is the widely unix-supported graphics service. Because I will be installing `dwm` windows manager later, which happens to be built on top of `X`, I will type `yes` as an aswer. We will only need to call our window manager from a config file and `xenodm` will start it automatically on login.
 
 ## User account
 
@@ -122,10 +121,8 @@ Even if you do, it is a best practice to create a separate account without all t
 What timezone are you in? ('?' for list) [Europe/Warsaw]
 ```
 
-You can list available timezone using question mark, but if you're connected to the Internet it should guess the proper one. 
-(Or maybe it uses some other magic ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ)
-
-![](https://pbs.twimg.com/media/DdaMnOoWAAAgPmc.jpg)
+You can list available timezone using question mark, but if you're connected to the Internet I think it should guess the proper one. 
+(Or maybe it uses some other magic? ╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ)
 
 
 ## Disk partitioning
@@ -216,4 +213,6 @@ Exit to (S)hell, (H)alt or (R)eboot? [reboot]
 Go to shell if you're a PRO user and want to tinker a bit more, 
 halt if you want to go to bed already to continue tomorrow 
 or reboot to start setting up your machine right away.
+
+[Next: Post install configuration](/03-post-install.md)
 
