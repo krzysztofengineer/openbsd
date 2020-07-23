@@ -1,6 +1,6 @@
 # Preparing the installation USB stick
 
-![](00-usb.png)
+![](/images/00-usb.png)
 
 ## Downloading the image
 
