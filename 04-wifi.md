@@ -3,6 +3,8 @@
 It's finally time to disconnect the ethernet cable an connect using in-built wi-fi module.
 I should actually do this a lot earlier, but I've kinda forgot.
 
+![](04-wifi.png)
+
 ## Network interfaces
 
 To list available interfaces, you can use `ifconfig` utility you're probably familiar with from Linux.
