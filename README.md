@@ -33,8 +33,6 @@ I've decided to write down about my journey of getting to know OpenBSD better an
 Feel free to contribute if you find a typo, misleading information or just have something important to add.
 You can be mean to me, but please consider my life philosophy:
 
->  Don't ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who, or who you are with, or where you are going, or where you've been, ever, for any reason whatsoever.
-
 ![](https://assets.rbl.ms/13475935/980x.jpg)
 
 
