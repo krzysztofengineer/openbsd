@@ -1,6 +1,6 @@
 # BIOS setup
 
-![](01-bios.png)
+![](/images/01-bios.png)
 
 ## Entering the BIOS setup
 

@@ -1,6 +1,6 @@
 # Installation
 
-![](02-installation.png)
+![](/images/02-installation.png)
 
 ## Booting from the USB
 

@@ -1,6 +1,6 @@
 # Sound
 
-![](05-sound.png)
+![](/images/05-sound.png)
 
 Sound, actually, works out of the box!
 

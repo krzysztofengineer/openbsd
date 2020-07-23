@@ -2,7 +2,7 @@
 
 Installation, configuration & management on Thinkpad T480 (should work for other setup too).
 
-![](00-readme-bsd.png)
+![](/images/00-readme-bsd.png)
 
 This "book" covers the installation & configuration of OpenBSD.
 
