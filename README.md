@@ -11,14 +11,14 @@ This "book" covers the installation & configuration of OpenBSD.
 
 ## I - Installation
 
-- [00 - Preparing the installation USB stick](/installation/00-usb-stick.md)
-- [01 - BIOS setup](/installation/01-bios-setup.md)
-- [02 - Installation](/installation/02-installation.md)
+- [1.1 - Preparing the installation USB stick](/installation/00-usb-stick.md)
+- [1.2 - BIOS setup](/installation/01-bios-setup.md)
+- [1.3 - Installation](/installation/02-installation.md)
 
 ## II - Configuration [WIP]
-- [03 - Post-install configuration](/configuration/03-post-install.md)
-- [04 - Wi-fi](/configuration/04-wifi.md)
-- [05 - Sound](/configuration/05-sound.md)
+- [2.1 - Post-install configuration](/configuration/03-post-install.md)
+- [2.2 - Wi-fi](/configuration/04-wifi.md)
+- [2.3 - Sound](/configuration/05-sound.md)
 
 ## III - Window manager [WIP]
 ## IV- Usability [WIP]
