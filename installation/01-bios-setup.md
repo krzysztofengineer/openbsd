@@ -25,4 +25,4 @@ You can now `Exit Saving Changes` and proceed for installation.
 Be aware, that when you'll face some issues later on, it can sometimes be helpful to go back to BIOS and tinker with some options (which we may actually do together in later sections of this book).
 
 
-[Next: Installation](02-installation.md)
+[Next: Installation](/installation/02-installation.md)

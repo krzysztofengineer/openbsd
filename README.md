@@ -2,7 +2,7 @@
 
 Installation, configuration & management on Thinkpad T480 (should work for other setup too).
 
-![](/images/00-readme-bsd.png)
+![](readme.png)
 
 This "book" covers the installation & configuration of OpenBSD.
 
@@ -11,14 +11,14 @@ This "book" covers the installation & configuration of OpenBSD.
 
 ## I - Installation
 
-- [00 - Preparing the installation USB stick](/00-usb-stick.md)
-- [01 - BIOS setup](/01-bios-setup.md)
-- [02 - Installation](/02-installation.md)
+- [00 - Preparing the installation USB stick](/installation/00-usb-stick.md)
+- [01 - BIOS setup](/installation/01-bios-setup.md)
+- [02 - Installation](/installation/02-installation.md)
 
 ## II - Configuration [WIP]
-- [03 - Post-install configuration](/03-post-install.md)
-- [04 - Wi-fi](/04-wifi.md)
-- [05 - Sound](/05-sound.md)
+- [03 - Post-install configuration](/configuration/03-post-install.md)
+- [04 - Wi-fi](/configuration/04-wifi.md)
+- [05 - Sound](/configuration/05-sound.md)
 
 ## III - Window manager [WIP]
 ## IV- Usability [WIP]

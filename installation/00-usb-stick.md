@@ -27,7 +27,7 @@ Provide the path to the downloaded `.fs` file using the `if` argument and the pa
 
 You can now boot from the USB.
 
-[Next: BIOS Setup](01-bios-setup.md)
+[Next: BIOS Setup](/installation/01-bios-setup.md)
 
 ---
 
