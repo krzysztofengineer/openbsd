@@ -54,4 +54,4 @@ doas sh /etc/netstart
 
 You should now be connected to your wi-fi hotspot and also after logging in.
 
-[Next: Sound](/05-sound.md)
+[Next: Sound](/configuration/05-sound.md)
