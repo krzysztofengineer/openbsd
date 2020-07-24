@@ -1,7 +1,5 @@
 # Installation
 
-![](/images/02-installation.png)
-
 ## Booting from the USB
 
 Press `F12` during the splash screen, select your USB from the list and hit enter. 
