@@ -10,9 +10,7 @@ cd app
 git clone git://git.suckless.org/dwm
 ```
 
-##
-
-Compile dwm:
+## Compile dwm
 
 ```
 cd dwm
