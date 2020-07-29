@@ -20,6 +20,7 @@ Installation, configuration & management on Thinkpad T480 (should work for other
 
 ## III - Window manager
 - [3.1 - DWM Installation](/dwm/01-dwm-installation.md)
+- [3.2 - Font](/dwm/02-font.md)
  
 ---
 
