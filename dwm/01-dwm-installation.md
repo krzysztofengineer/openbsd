@@ -50,3 +50,5 @@ exec dwm
 ```
 
 Restart X or reboot.
+
+[Next: Font](/dwm/02-font.md)
