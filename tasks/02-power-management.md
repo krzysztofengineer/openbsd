@@ -19,3 +19,5 @@ Set automatic mode:
 ```
 doas apm -A
 ```
+
+[Next: HDMI](/tasks/03-hdmi.md)
