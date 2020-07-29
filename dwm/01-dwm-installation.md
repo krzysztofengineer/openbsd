@@ -8,6 +8,8 @@ Clone the repository:
 mkdir app
 cd app
 git clone git://git.suckless.org/dwm
+git clone git://git.suckless.org/st
+git clone git://git.suckless.org/dmenu
 ```
 
 ## Compile dwm
@@ -24,6 +26,8 @@ Compile from `dwm` code directory:
 ```
 doas make clean install
 ```
+
+Repeat for `st` and `dmenu`
 
 ## Configure to run on start
 
