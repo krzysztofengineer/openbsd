@@ -2,7 +2,7 @@
 
 ## Get the copy
 
-Clone the repository:
+Clone the dwm repository as well as `st` terminal emulator and `dmenu` launcher:
 
 ```
 mkdir app
