@@ -3,6 +3,7 @@
 ## Downloading the image
 
 The image can be downloaded from [OpenBSD website](https://www.openbsd.org/) *Downloads section). 
+
 For USB stick, download the `installXX.fs` file (not the ISO, which is intended for CD/DVD).
 Choose **amd64** for T480.
 
@@ -24,9 +25,10 @@ dd if=/path/to/install67.fs of=/dev/sdX bs=1M status=progress
 
 `status=progress` - get the live progress status.
 
-[Next: BIOS Setup](/installation/02-bios-setup.md)
-
 ### WARNING
 
 `dd` can be destructive if used incorrectly, that's why it's often called "Disk Destroyer". 
 Make sure to double check your paths.
+
+
+[Next: BIOS Setup](/installation/02-bios-setup.md)
