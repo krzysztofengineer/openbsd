@@ -29,7 +29,7 @@ Installation, configuration & management on Thinkpad T480 (should work for other
 - [4.3 - HDMI](/tasks/03-hdmi.md)
 
 ## Troubleshooting
-- [Common problems](/troubleshooting/01-common-problems.md)
+- [After successful login it log outs immediately](/troubleshooting/01-x-logout.md)
  
 ---
 

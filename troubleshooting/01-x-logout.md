@@ -1,5 +1,3 @@
-# Common problems
-
 ## After successful login it log outs immediately
 
 There is probably some runtime issue with X/dwm.
