@@ -17,3 +17,5 @@ or
 ```
 doas reboot
 ```
+
+[Next: Power Management](/tasks/02-power-management.md)

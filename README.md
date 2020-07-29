@@ -25,6 +25,7 @@ Installation, configuration & management on Thinkpad T480 (should work for other
 
 ## IV - Common tasks
 - [4.1 - Shutdown](/tasks/01-shutdown.md)
+- [4.2 - Power management](/tasks/02-power-management.md)
 
 ## Troubleshooting
 - [Common problems](/troubleshooting/01-common-problems.md)
