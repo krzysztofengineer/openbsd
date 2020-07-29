@@ -15,5 +15,5 @@ doas shutdown -r now
 or
 
 ```
-reboot
+doas reboot
 ```
