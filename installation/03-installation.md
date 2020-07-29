@@ -212,5 +212,5 @@ Go to shell if you're a PRO user and want to tinker a bit more,
 halt if you want to go to bed already to continue tomorrow 
 or reboot to start setting up your machine right away.
 
-[Next: Post install configuration](/configuration/03-post-install.md)
+[Next: Post install configuration](/configuration/01-post-install.md)
 
