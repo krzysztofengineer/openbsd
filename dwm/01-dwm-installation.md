@@ -12,8 +12,16 @@ git clone git://git.suckless.org/dwm
 
 ## Compile dwm
 
+Edit `config.mk` and uncomment `OpenBSD` specific code:
+
 ```
-cd dwm
+# FREETYPEINC = /usr/include/freetype2
+FREETYPEINC = ${X11INC}/freetype2
+```
+
+Compile from `dwm` code directory:
+
+```
 doas make clean install
 ```
 
