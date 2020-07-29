@@ -13,10 +13,13 @@ Installation, configuration & management on Thinkpad T480 (should work for other
 - [1.2 - BIOS setup](/installation/02-bios-setup.md)
 - [1.3 - Installation](/installation/03-installation.md)
 
-## II - Configuration [WIP]
+## II - Configuration
 - [2.1 - Post-install configuration](/configuration/01-post-install.md)
 - [2.2 - Wi-fi](/configuration/02-wifi.md)
 - [2.3 - Sound](/configuration/03-sound.md)
+
+## III - Window manager
+- [3.1 - DWM Installation](/dwm/01-dwm-installation.md)
  
 ---
 
