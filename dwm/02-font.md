@@ -21,6 +21,12 @@ Update fonts cache:
 fc-cache
 ```
 
+You can list available fonts with:
+
+```
+fc-list
+```
+
 ## Apply font
 
 For dwm, edit `config.def.h`:
