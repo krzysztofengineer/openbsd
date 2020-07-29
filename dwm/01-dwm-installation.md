@@ -14,6 +14,12 @@ git clone git://git.suckless.org/dmenu
 
 ## Compile dwm
 
+Go into `dwm` directory:
+
+```
+cd dwm
+```
+
 Edit `config.mk` and uncomment `OpenBSD` specific code:
 
 ```
@@ -21,13 +27,13 @@ Edit `config.mk` and uncomment `OpenBSD` specific code:
 FREETYPEINC = ${X11INC}/freetype2
 ```
 
-Compile from `dwm` code directory:
+Compile dwm:
 
 ```
 doas make clean install
 ```
 
-Repeat for `st` and `dmenu`
+Repeat for `st` and `dmenu`.
 
 ## Configure to run on start
 
