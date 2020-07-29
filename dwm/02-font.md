@@ -46,3 +46,5 @@ doas make clean install
 ```
 
 Restart dwm to apply changes with `Shift + Mod + Q`
+
+[Next: Wallpaper](/dwm/03-wallpaper.md)
