@@ -30,3 +30,4 @@ While you're here, you can also comment the following line to get rid of the ann
 # xconsole -geometry 480x130-0-0 -daemon -notify -verbose -fn fixed -exitOnFail
 ```
 
+[Next: Shutdown](/tasks/01-shutdown.md)
