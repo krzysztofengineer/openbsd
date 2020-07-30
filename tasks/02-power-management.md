@@ -8,16 +8,9 @@ apm
 
 ## Set the performance adjustment mode
 
-Start `apm` daemon:
-
 ```
-doas rcctl -f enable apmd
-```
-
-Set automatic mode:
-
-```
-doas apm -A
+rcctl set apmd status on
+rcctl set apmd flags -A
 ```
 
 [Next: HDMI](/tasks/03-hdmi.md)
