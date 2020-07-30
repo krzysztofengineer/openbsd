@@ -46,7 +46,8 @@ do
     mute=`sndioctl -n output.mute`
     volume=`sndioctl -n output.level`
     if [ $mute == 1 ] ; then vol=0; else vol="$volume"; fi
-    battery=`date '+%Y-%m-%d %H:%M'`
+    date=`date '+%Y-%m-%d %H:%M'`
+    battery=`/usr/sbin/apm -l`
     xsetroot -name "vol: ${vol} / bat: ${battery} / ${date}`";
     sleep 1
 done &
