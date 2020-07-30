@@ -23,6 +23,7 @@ Installation, configuration & management on Thinkpad T480 (should work for other
 - [3.2 - Font](/dwm/02-font.md)
 - [3.3 - Wallpaper](/dwm/03-wallpaper.md)
 - [3.4 - Status bar](/dwm/04-statusbar.md)
+- [3.5 - Screenshots](/dwm/05-screenshots.md)
 
 ## IV - Common tasks
 - [4.1 - Shutdown](/tasks/01-shutdown.md)
