@@ -19,7 +19,7 @@ sndioctl -n output.mute
 ## Battery percentage
 
 ```
-/apm -l
+apm -l
 ```
 
 ## Formatted date
